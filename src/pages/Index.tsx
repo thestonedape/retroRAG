@@ -25,7 +25,7 @@ const Index = () => {
               </div>
               <div>
                 <h1 className="text-3xl font-heading font-black gradient-text-primary">
-                  CYBER_RAG
+                  Retro_RAG
                 </h1>
                 <p className="text-sm neon-text-green font-terminal">
                   NEURAL_NEXUS_INTELLIGENCE_CORE
